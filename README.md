@@ -1,1 +1,1 @@
-# ml-design-patterns-code
+# ML algorithms from scratch

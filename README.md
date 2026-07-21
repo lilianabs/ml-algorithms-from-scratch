@@ -9,4 +9,4 @@ This repo contains the implementation of common machine learning algorithms.
 - [Decision trees]()
 - [Random Forest]()
 - [K-Means Clustering]()
-- [Vanilla Neural Network]()
+- [Vanilla Neural Network](nns_from_scratch_numpy.ipynb)
